@@ -1,6 +1,7 @@
 # Содержание
 
-[Первое подключени ESP](./esp32_network/instructions.md)
+[Первое подключение ESP](./esp32_network/instructions.md)
+[Индикатор состояния светодиодами](./led_interface/instructions.md)
 
 ## Поддержка плат 
 
